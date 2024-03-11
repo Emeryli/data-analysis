@@ -16,9 +16,12 @@ This is a brief introduction. Feel free to jump to the sections you like by clic
 ### Movies.ipynb :movie_camera:
 This project was to find out what factors had high correlation to the **gross**. In conclusion, the **budget** has a high correlation (> 0.7). 
 First, the project used matplotlib to plot the scatter dots of gross and budget. From there, we can see when budget increases, the gross increases relatively. 
+![1](https://github.com/Emeryli/DataAnalysis/assets/71569536/453a884a-a269-4bb1-962c-87b055c9e546)
 
 Secondly, in order to visualize their relation better. Regression line was drawn to indicate the positive correlation.
+![2](https://github.com/Emeryli/DataAnalysis/assets/71569536/87cc2c2f-808f-4483-ae38-38fa60ab601d)
 
 Third, Heatmap was used to show the numbers of correlation.
+![3](https://github.com/Emeryli/DataAnalysis/assets/71569536/6c4a3535-e4b2-4557-9332-442001bc3308)
 
 Lastly, The correlations were sorted ascendantly.
