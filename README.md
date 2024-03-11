@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Data Analysis Portfolio</h1> 
+<h1 align="center">Data Analysis Portfolio</h1> 
 
 
 ### Table of Content📖 
