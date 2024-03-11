@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Data Analysis Portfolio</h1> 
 
---- 
+
 ### Table of Content📖 
   - [Introduction](#introduction)
   - [Movies.ipynb](#moviesipynb)
@@ -16,9 +16,9 @@ This is a brief introduction. Feel free to jump to the sections you like by clic
 ### Movies.ipynb :movie_camera:
 This project was to find out what factors had high correlation to the **gross**. In conclusion, the **budget** has a high correlation (> 0.7). 
 First, the project used matplotlib to plot the scatter dots of gross and budget. From there, we can see when budget increases, the gross increases relatively. 
-![alt text](C:\Users\emery\Desktop\Data Analyse with Py\Python Code\Movie png)
+
 Secondly, in order to visualize their relation better. Regression line was drawn to indicate the positive correlation.
-![alt text](2-1.png)
-Third, Heatmap as seen below was used to show the numbers of correlation.
-![alt text](3.png)
+
+Third, Heatmap was used to show the numbers of correlation.
+
 Lastly, The correlations were sorted ascendantly.
