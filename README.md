@@ -2,8 +2,8 @@
 
 
 ### Table of Content📖 
-  - [Introduction](#introduction)
-  - [Movies.ipynb](#moviesipynb)
+  - [Introduction](#intro)
+  - [Movies.ipynb](#Movies.ipynb)
 
 ---
 <a id="intro"></a>
@@ -12,7 +12,7 @@ This is a brief introduction. Feel free to jump to the sections you like by clic
 
 ---
  <!-- headings -->
- <a id="item-one"></a>
+ <a id="Movies.ipynb"></a>
 ### Movies.ipynb :movie_camera:
 This project was to find out what factors had high correlation to the **gross**. In conclusion, the **budget** has a high correlation (> 0.7). 
 First, the project used matplotlib to plot the scatter dots of gross and budget. From there, we can see when budget increases, the gross increases relatively. 
