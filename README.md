@@ -11,7 +11,7 @@
 
 <a id="intro"></a>
 ### \| Introduction :star:
-This is a brief introduction. Feel free to jump to the sections you like by clicking the titles under the Table of Content, whose order is ranked by the date the projects were added to the portfolio. Each section contains the title, the goals of the project, and the steps that I took to achieve the results. The source code (if it was written in Python rather than data visualizations in Power BI) can be found in the same repository with the same name. Thanks for reading!
+Here is the manual to make this portfolio more readable. Feel free to jump to the sections you like by clicking the titles under the Table of Content, whose order is ranked by the date the projects were added to the portfolio. Each section contains the title, the goals of the project, and the steps that I took to achieve the results. All the source scripts/files can be found and downloaded from the panel on the left by clicking the title. Thanks for reading!
 
 ---
  <!-- headings -->
