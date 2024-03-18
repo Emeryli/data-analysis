@@ -5,6 +5,7 @@
   - [IMDB Data Analysis](#Movies)
   - [Data Professional Survey Analysis](#ProfessionalSuvey)
   - [Bike Buyer Excel Analysis](#bikebuyer)
+  - [Covid-19 Data R Analysis](#covid)
 
 ---
 
@@ -41,5 +42,17 @@ This project created visuals in Power BI based on the data from the survey. The 
 ### \| Bike Buyers Excel Dashboard 🚲
 In order to find out what traits of the survey takers would be more likely to respond to the survey, a dashboard was created to answer the question. After analyzing, people with age between 31 to 55 are the major survey respondents. Besides, the dashboard also reflected the relationship between income and education level. Such information can be used by the business to make selling strategies targeted at specific age groups with certain education level.  
 ![bike](https://github.com/Emeryli/DataAnalysis/assets/71569536/20b1d1c2-9def-4dd8-a4a2-4746e76bed95)
+
+---
+
+<a id="covid"></a>
+### \| Covid-19 Data Analysis in R Language 🦠
+Determining what factors were statistically significantly related to death was the main goal of this analysis. However, the original raw data was not ready to be used as some columns format were not standardized, which means they needed to be cleaned up first. Next step, in order to find out the factors mentioned, both age and gender were hypothesized to be related to death. Finally, after performing Welch's Two Sample t-test, the p-values of those were less than 0.05, meaning we can reject the null hypothesis, concluding that both age and gender are statistically significant.<br />
+![covid1](https://github.com/Emeryli/DataAnalysis/assets/71569536/ebe32233-c721-48bf-b06b-34c3e8794eb5) <br />Age Welch's Two Sample t-test
+<br />
+![covid2](https://github.com/Emeryli/DataAnalysis/assets/71569536/8dea01af-4a69-451f-b293-9827cd87b628)
+<br />Gender Welch's Two Sample t-test
+
+
 
 
