@@ -59,6 +59,12 @@ Determining what factors were statistically significantly related to death was t
 <a id="ic"></a>
 ### \| Identify Commonalities 
 This Python script takes text documents, which contain the group name at the first line, and elements in the following rows, and outputs the common elements across different groups. 
+Input:
+![thumbnail_image001](https://github.com/user-attachments/assets/bf4d5241-0a4c-43ec-8c16-beb54e4d4178)
+Output:
+![thumbnail_image002](https://github.com/user-attachments/assets/2eb24f0d-dccc-496b-9fc7-9cace5d7a86f)
+
+
 
 
 
