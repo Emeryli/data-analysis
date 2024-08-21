@@ -6,7 +6,7 @@
   - [Data Professional Survey Analysis](#ProfessionalSuvey)
   - [Bike Buyer Excel Analysis](#bikebuyer)
   - [Covid-19 Data R Analysis](#covid)
-  - [Identify Commonalities](#ic) 
+  - [Identify Commonalities in Python](#ic) 
 
 ---
 
