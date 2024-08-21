@@ -6,6 +6,7 @@
   - [Data Professional Survey Analysis](#ProfessionalSuvey)
   - [Bike Buyer Excel Analysis](#bikebuyer)
   - [Covid-19 Data R Analysis](#covid)
+  - [Identify Commonalities](#ic) 
 
 ---
 
@@ -53,6 +54,11 @@ Determining what factors were statistically significantly related to death was t
 ![covid2](https://github.com/Emeryli/DataAnalysis/assets/71569536/8dea01af-4a69-451f-b293-9827cd87b628)
 <br />Gender Welch's Two Sample t-test
 
+---
+
+<a id="ic"></a>
+### \| Identify Commonalities 
+This Python script takes text documents, which contain the group name at the first line, and elements in the following rows, and outputs the common elements across different groups. 
 
 
 
