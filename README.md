@@ -4,6 +4,7 @@
   - [Introduction](#intro)
   - [Data Professional Survey Analysis](#ProfessionalSuvey)
   - [Bike Buyer Excel Analysis](#bikebuyer)
+  - [Hospital Visit Analysis](#HospitalVisitData)
 ---
 
 <a id="intro"></a>
@@ -17,6 +18,12 @@ Here is the manual to make this portfolio more readable. Feel free to jump to th
 ### \| Data Professional Survey Analysis :pencil:
 This project created visuals in Power BI based on the data from the survey. The report shows the average salaries, happiness and age, as well as the most used programming language. The viewers can click the country they like to view the corresponding data. 
 ![dataSurvey](https://github.com/Emeryli/DataAnalysis/assets/71569536/55be7fd0-6e70-4a37-85eb-6a491c064c2a)
+
+---
+<a id="HospitalVisitData"></a>
+### \| Hospital Visit Analysis :hospital:
+This Power BI analysis enables the users to filter the result by a couple of slicers such as Hospital, Day of Week. The report provides the visualizations of the number of visits, reasons for visits, and CTAS emergency categorization. 
+![Screenshot 2024-10-26 124426](https://github.com/user-attachments/assets/f98033db-519c-4cb5-80d8-e6757c3bb1fd)
 
 ---
 
